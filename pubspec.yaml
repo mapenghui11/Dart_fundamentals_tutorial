@@ -1,0 +1,6 @@
+name: xxx
+description: A new flutter module project.
+dependencies:
+  // 配置http和date_format第三方库的依赖 可在库文档中查看引入
+  http: ^0.12.0+2
+  date_format: ^1.0.6
